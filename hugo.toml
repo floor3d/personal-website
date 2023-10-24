@@ -1,0 +1,32 @@
+baseURL = '//defloor.info/'
+languageCode = 'en-us'
+title = 'Evan Defloor'
+theme = 'nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 1
+    url = "posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+author = "Evan Defloor"
+user = "user"
+hostname = "defloor.info"
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/floor3d"
+
+[[params.social]]
+key = 1
+name = "linkedin"
+url = "https://www.linkedin.com/in/edefloor/"
