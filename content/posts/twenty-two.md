@@ -1,5 +1,5 @@
 ---
-title: "Twenty-Two - EU"
+title: "Twenty-Two: EU"
 date: 2023-11-19T17:22:18Z
 draft: false
 ---
