@@ -15,3 +15,4 @@ I personally find myself having these kinds of thoughts all the time, even about
 Isn't it funny how day by day nothing changes, but when you look back everything is different?
 ```
 I love the feeling of looking back and seeing how my knowledge has changed. As I said, this blog will be evidence of my knowledge at different stages of my life. I'm looking forward to seeing the improvement.
+
