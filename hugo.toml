@@ -14,12 +14,12 @@ theme = 'nightfall'
     url = "/about"
 
 [params]
-author = "Evan Defloor"
-user = "user"
-hostname = "defloor.info"
+  author = "Evan Defloor"
+  user = "user"
+  hostname = "defloor.info"
 
-readingTime = true  # Show reading time on post page
-published = true  # Show published data on post page
+  readingTime = true  # Show reading time on post page
+  published = true  # Show published data on post page
 
 [[params.social]]
 key = 0
@@ -30,3 +30,11 @@ url = "https://github.com/floor3d"
 key = 1
 name = "linkedin"
 url = "https://www.linkedin.com/in/edefloor/"
+
+[[params.social]]
+key = 2
+name = "email"
+url = "mailto:evan@ethicalhack.ing" 
+
+
+
