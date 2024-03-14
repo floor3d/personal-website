@@ -3,6 +3,7 @@ title: "Thirty: Goodbye, AWS EC2"
 date: 2024-02-26T05:06:18Z
 draft: false
 ---
+Test test test
 ## RIP
 The time has come. As much as I enjoy having a cloud instance available 24/7 for any shenanigans I think of, it has come time for me to part ways with the instance.
 
