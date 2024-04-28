@@ -6,7 +6,7 @@ draft: false
 
 # What is CCDC?
 CCDC is the Collegiate Cyber Defense Competition. In a nutshell, you put a bunch of college students in a corporate-modeled environment with Linux and Windows machines. You get some professional red teamers to attack them, while they try to keep their critical services up and also perform "injects" -- random surprise tasks which
-give you extra points when you complete them.
+give you extra points when you complete them, such as setting up a fileshare or making DNS changes.
 
 # What do I do?
 I'm on the Windows team. In other words, I manage some of the Windows servers and workstations, while ensuring (trying to ensure) that red team is not demolishing our Active Directory environment.
