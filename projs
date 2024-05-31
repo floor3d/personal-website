@@ -1,0 +1,4 @@
+ ### Personal projects, to be added in a page later
+
+1. Simple BGP router written in Python, written for my Networks class. Accomplishes all of the essential functions of a real router, i.e., accepting route announcements from simulated peer routers, generating new route announcements for  peer routers, 
+managing and compressing a forwarding table, and forwarding data packets that arrive from simulated internet users.
