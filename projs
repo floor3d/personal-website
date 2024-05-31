@@ -1,5 +1,8 @@
  ### Personal projects, to be added in a page later
 Many small projects were made without version control software. May they rest in peace. As for the others, some are public and some are private; if you are interested in one of them and want to see my code, just let me know :)
 
-1. Simple BGP router written in Python, written for my Networks class. Accomplishes all of the essential functions of a real router, i.e., accepting route announcements from simulated peer routers, generating new route announcements for  peer routers, 
+1. Simple FTP client written in Python, for my Networks class. Runs on the command line, and supports the following six operations: directory listing, making directories, 
+file deletion, directory deletion, copying files to and from the FTP server, and moving files to and from the FTP server. Uses two sockets, one for the Control channel and one for the Data channel.
+
+2. Simple BGP router written in Python, for my Networks class. Accomplishes all of the essential functions of a real router, i.e., accepting route announcements from simulated peer routers, generating new route announcements for  peer routers, 
 managing and compressing a forwarding table, and forwarding data packets that arrive from simulated internet users.
