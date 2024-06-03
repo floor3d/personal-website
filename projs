@@ -8,3 +8,6 @@ file deletion, directory deletion, copying files to and from the FTP server, and
 managing and compressing a forwarding table, and forwarding data packets that arrive from simulated internet users.
 
 3. Lite TCP implementation written in Python, for my Networks class. It ensures data is delivered in order, without duplicates, missing data, or errors, built over UDP.
+
+4. Raw Web Crawler written in Python, for my Networks class. All HTTP request and response code was written by me, and not helped via a library such as Requests, Selenium, BeautifulSoup, etc.
+It logs into a fake social media site and gathers data from the pages.
