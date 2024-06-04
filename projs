@@ -11,3 +11,6 @@ managing and compressing a forwarding table, and forwarding data packets that ar
 
 4. Raw Web Crawler written in Python, for my Networks class. All HTTP request and response code was written by me, and not helped via a library such as Requests, Selenium, BeautifulSoup, etc.
 It logs into a fake social media site and gathers data from the pages.
+
+5. Distributed Key-value Database in Go, for my Networks class. A simple version of the RAFT, protocol, this data store is run multiple times in parallel, 
+maintaining consensus among the replicas, even through failure of nodes and other issues.
