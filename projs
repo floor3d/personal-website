@@ -1,16 +1,32 @@
- ### Personal projects, to be added in a page later
-Many small projects were made without version control software. May they rest in peace. As for the others, some are public and some are private; if you are interested in one of them and want to see my code, just let me know :)
+### Personal projects, to be added in a page later
+I've made many small projects without version control software. May they rest in peace. As for the others, some are public and some are private; if you are interested in one of the private ones and want to see my code, just let me know :)
 
-1. Simple FTP client written in Python, for my Networks class. Runs on the command line, and supports the following six operations: directory listing, making directories, 
+- Simple FTP client written in Python, for my Networks class. Runs on the command line, and supports the following six operations: directory listing, making directories, 
 file deletion, directory deletion, copying files to and from the FTP server, and moving files to and from the FTP server. Uses two sockets, one for the Control channel and one for the Data channel.
 
-2. Simple BGP router written in Python, for my Networks class. Accomplishes all of the essential functions of a real router, i.e., accepting route announcements from simulated peer routers, generating new route announcements for  peer routers, 
+- Simple BGP router written in Python, for my Networks class. Accomplishes all of the essential functions of a real router, i.e., accepting route announcements from simulated peer routers, generating new route announcements for  peer routers, 
 managing and compressing a forwarding table, and forwarding data packets that arrive from simulated internet users.
 
-3. Lite TCP implementation written in Python, for my Networks class. It ensures data is delivered in order, without duplicates, missing data, or errors, built over UDP.
+- Lite TCP implementation written in Python, for my Networks class. It ensures data is delivered in order, without duplicates, missing data, or errors, built over UDP.
 
-4. Raw Web Crawler written in Python, for my Networks class. All HTTP request and response code was written by me, and not helped via a library such as Requests, Selenium, BeautifulSoup, etc.
+- Raw Web Crawler written in Python, for my Networks class. All HTTP request and response code was written by me, and not helped via a library such as Requests, Selenium, BeautifulSoup, etc.
 It logs into a fake social media site and gathers data from the pages.
 
-5. Distributed Key-value Database in Go, for my Networks class. A simple version of the RAFT, protocol, this data store is run multiple times in parallel, 
+- Distributed Key-value Database in Go, for my Networks class. A simple version of the RAFT protocol, this data store is run multiple times in parallel, 
 maintaining consensus among the replicas, even through failure of nodes and other issues.
+
+- clisp: a lisp language made in C. I used `buildyourownlisp(dot)com` to make this project. A cool way to learn about programming languages :)
+
+- grab: a trivial implementation of grep written in Rust as I learned the language.
+
+- Secure Messenger Client and Server written in Python: Written as a final project for my Network Security class, this program incorporates SRP, Diffie Hellman, mutual authentication, etc.
+It guarantees integrity, endpoints hiding, protection against replay attacks and impersonation, and other attacks.
+
+- CTF Challenges: a list of CTF challenges of all types that I have made for my club at school :)
+
+- Ghost in the sHELL: The Visual C *Magnum Opus*. A full-featured C2 framework and modular malware implant for Windows. I was part of a team in team, and I helped make functionality such as thread hijacking process injection, 
+in-memory DLL loading, client frontend, chrome password stealer, hotkey persistence, TLS encrypted channels via certbot, string obfuscation, and more capabilities :)
+
+- One Piece Spoiler crawler, written in Bash: a hyper-simplified spoiler notifier which notifies me by email every time the new chapter of One Piece comes out, and when the spoilers come out too :)
+
+- Diffie Hellman middleman simulation, written in Rust. Simulates a DH handshake, but with an adversary in the middle :)
