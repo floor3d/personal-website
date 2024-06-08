@@ -1,6 +1,10 @@
 ### Personal projects, to be added in a page later
 I've made many small projects without version control software. May they rest in peace. As for the others, some are public and some are private; if you are interested in one of the private ones and want to see my code, just let me know :)
 
+- Ongoing:
+--> Homelab: My tiny homelab comprising of 1 raspberry pi (which hosts my website!), an 8 port 1 gb Netgear switch I bought for 5 dollars, a 2014 Mac mini, my laptop(s), and my PC, all connected 
+via a tailnet. It's still in its infancy phases, but it's mine!
+
 - Simple FTP client written in Python, for my Networks class. Runs on the command line, and supports the following six operations: directory listing, making directories, 
 file deletion, directory deletion, copying files to and from the FTP server, and moving files to and from the FTP server. Uses two sockets, one for the Control channel and one for the Data channel.
 
