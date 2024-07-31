@@ -5,21 +5,21 @@ theme = 'nightfall'
 
 [menu]
   [[menu.header]]
-    name = "projects"
-    weight = 1
-    url = "pages/projects"
-  [[menu.header]]
-    name = "techy"
-    weight = 1
-    url = "technical"
-  [[menu.header]]
-    name = "posts"
-    weight = 1
-    url = "posts"
-  [[menu.header]]
     name = "about"
     weight = 1
     url = "/about"
+  [[menu.header]]
+    name = "blog"
+    weight = 2
+    url = "posts"
+  [[menu.header]]
+    name = "techy"
+    weight = 3
+    url = "technical"
+  [[menu.header]]
+    name = "projects"
+    weight = 4
+    url = "pages/projects"
 
 [params]
   author = "Evan Defloor"
