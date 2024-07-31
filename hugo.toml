@@ -5,6 +5,10 @@ theme = 'nightfall'
 
 [menu]
   [[menu.header]]
+    name = "projects"
+    weight = 1
+    url = "pages/projects"
+  [[menu.header]]
     name = "techy"
     weight = 1
     url = "technical"
